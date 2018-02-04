@@ -29,6 +29,6 @@
 	* File __pub.py__ and __test.py__ resides into the host computer, having dependency paho-mqtt
 	* Host only need to run pub.py in order to control target computer, provided sub.py is running on target computer 
 
-### running sub.py can be automated by using systemd or any other similar services 
+#### Running sub.py can be automated by using systemd or any other similar services 
 
-### All the codes are implemnted in python3 and are not tested for python2
+#### All the codes are implemnted in python3 and are not tested for python2
